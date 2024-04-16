@@ -1,0 +1,20 @@
+convert this image into markdown.
+Apply markdown syntax appropriately for these elements:
+Use ##, ###, ####, or ##### for headings to properly capture the document hierarchy.
+Use standard markdown for lists (-, +, *) and numbered lists (1., 2., etc.).
+Use standard markdown table syntax for tables.
+For images embedded in the PDF:
+Provide alt-texts that are both descriptive and contextual.
+Keep in mind these descriptions might later serve as valuable context for answering user queries in a retrieval-augmented generation (RAG) application.
+For example, use [image of the control panel showing button layout] as alt-text
+For hyperlinks within the document:
+Since the actual URLs won't be accessible, format them as [link text](URL n/a).
+Special attention should be given to unique elements like footnotes, sidebars, or frames—integrate these into the markdown in a logical and coherent manner.
+
+Remember:
+
+The markdown output from this process will be segmented, embedded, and stored in a database.
+The accuracy, clarity, and contextual relevance of your markdown conversion are paramount.
+The source material is in Dutch.
+Use markdownheaders
+ONLY reply with the markdown representation of the page (don't wrap it in code blocks or add explanations).
