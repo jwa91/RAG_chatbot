@@ -22,7 +22,10 @@ RAG Chatbot Project for complex, unstructured pdfs.
 ## Introduction
 
 This repository is a personal learning project for me to experiment with LLMs, AI and even developing in general. 
-See blog post: [janwillemaltink.eu](https://janwillemaltink.eu/blog/ai-blog-deel-3-retrieval-augmented-generation)
+See blog posts (in Dutch): 
+[Part 3](https://janwillemaltink.eu/blog/ai-blog-deel-3-retrieval-augmented-generation).
+[Part 4](https://janwillemaltink.eu/blog/blogartikelen/ai-blog-deel-4-rag-langchain)
+
 Bigger version of the visuals: [Excalidraw](https://link.excalidraw.com/readonly/lv6ZpqrKnLg3jKkZizch)
 
 ### Some core components:
