@@ -4,7 +4,6 @@ import asyncio
 import logging
 import anthropic
 from dotenv import load_dotenv
-from tqdm.asyncio import tqdm
 from asyncio import sleep, Semaphore
 
 # Setup logging
